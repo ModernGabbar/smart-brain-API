@@ -4,8 +4,8 @@ Final project for Udemy course.
 It is the API or the server file for face-recognition-brain.
 
 Clone this repo
-Run npm install
-Run npm start
-You must add your own API key in the controllers/image.js file to connect to Clarifai API.
+1. Run npm install
+2. Run npm start
+3. You must add your own API key in the controllers/image.js file to connect to Clarifai API.
 
 NOTE: This server uses Postgresql database.
